@@ -20,13 +20,11 @@ task_manager_fastapi/
 │   │   ├── models/
 │   ├── core/
 │   ├── db/
-├── tests/
 ├── .env
 ├── .gitignore
 ├── alembic.ini
 ├── README.md
 ├── main.py
-├── requirements.txt
 ```
 
 
